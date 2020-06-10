@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="description">
+
+
+             <item>Rate 8,4/9</item>
+             <item>Rate 6,7/9</item>
+             <item>Rate 6,1/9</item>
+        <item>Rate 7,6/9</item>
+        <item>Rate 7,9/9</item>
+        <item>Rate 8,5/9</item>
+        <item>Rate 5,8/9</item>
+        <item>Rate 6,6/9</item>
+        <item>Rate 6,7/9</item>
+        <item>Rate 9/9</item>
+
+
+    </string-array>
+</resources>

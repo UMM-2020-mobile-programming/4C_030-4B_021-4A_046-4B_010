@@ -1,0 +1,20 @@
+<resources>
+    <string-array name="title">
+
+        <item>Avengers Endgame (2019)</item>
+        <item>Bad Boys for Life (2020)</item>
+        <item>Birds of Prey And the Fantabulous Emancipation of One Harley Quinn (2020)</item>
+        <item>Harry Potter and the Sorcerers Stone (2001)</item>
+        <item>Jojo Rabbit (2019)</item>
+        <item>Joker (2019)</item>
+        <item>Scoob (2020)</item>
+        <item>Sonic the Hedgehog (2020)</item>
+        <item>Star Wars Episode IX - The Rise of Skywalker (2019)</item>
+        <item>The Dark Knight (2008)</item>
+
+    </string-array>
+
+
+
+
+</resources>
