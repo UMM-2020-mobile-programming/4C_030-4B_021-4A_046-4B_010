@@ -1,7 +1,7 @@
 # 4C_030-4B_021-4A_046-4B_010
 Tubes Pem Mobile 4C 2020 - Final Project Movie Rating
 
-# :movies: Final Project Movie Rating (030(4B),021(4A),046(4B),010(4C)) :
+# :fire: Final Project Movie Rating (030(4B),021(4A),046(4B),010(4C)) :
 
 ![alt text](https://i.ibb.co/MRgdBrp/tab1.jpg) 
 ![alt text](https://i.ibb.co/jV0yXMp/tab2.jpg) 
